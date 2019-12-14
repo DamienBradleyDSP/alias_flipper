@@ -42,7 +42,7 @@ def alias_flip(input_signal):   # flips a signal's frequency components, low fre
 
     
 
-    return output_signal2
+    return output_signal + output_signal2
 
 
         
